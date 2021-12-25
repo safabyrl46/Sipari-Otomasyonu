@@ -1,0 +1,97 @@
+C:\Users\muham\source\repos\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.FrmLogin.resources
+C:\Users\muham\source\repos\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.frmKayit.resources
+C:\Users\muham\source\repos\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.mAnasayfa.resources
+C:\Users\muham\source\repos\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.Properties.Resources.resources
+C:\Users\muham\source\repos\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Sipariş Otomasyonu.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Sipariş Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış Otomasyonu.exe
+C:\Users\muham\source\repos\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış Otomasyonu.pdb
+C:\Users\muham\source\repos\Sipariş Otomasyonu\Satış Otomasyonu\bin\Debug\Satış Otomasyonu.exe.config
+C:\Users\muham\source\repos\Sipariş Otomasyonu\Satış Otomasyonu\bin\Debug\Satış Otomasyonu.exe
+C:\Users\muham\source\repos\Sipariş Otomasyonu\Satış Otomasyonu\bin\Debug\Satış Otomasyonu.pdb
+C:\Users\muham\source\repos\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.aAnasayfa.resources
+C:\Users\muham\source\repos\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Sipariş Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.ANASAYFA.resources
+C:\Users\muham\source\repos\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.adminLogin.resources
+C:\Users\muham\source\repos\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.odeme.resources
+C:\Users\bilis\Desktop\Sipariş Otomasyonu\Satış Otomasyonu\bin\Debug\Satış Otomasyonu.exe.config
+C:\Users\bilis\Desktop\Sipariş Otomasyonu\Satış Otomasyonu\bin\Debug\Satış Otomasyonu.exe
+C:\Users\bilis\Desktop\Sipariş Otomasyonu\Satış Otomasyonu\bin\Debug\Satış Otomasyonu.pdb
+C:\Users\bilis\Desktop\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Sipariş Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\bilis\Desktop\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Sipariş Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\bilis\Desktop\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.aAnasayfa.resources
+C:\Users\bilis\Desktop\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.adminLogin.resources
+C:\Users\bilis\Desktop\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.ANASAYFA.resources
+C:\Users\bilis\Desktop\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.FrmLogin.resources
+C:\Users\bilis\Desktop\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.frmKayit.resources
+C:\Users\bilis\Desktop\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.mAnasayfa.resources
+C:\Users\bilis\Desktop\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.odeme.resources
+C:\Users\bilis\Desktop\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.Properties.Resources.resources
+C:\Users\bilis\Desktop\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Sipariş Otomasyonu.csproj.GenerateResource.cache
+C:\Users\bilis\Desktop\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Sipariş Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\bilis\Desktop\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış Otomasyonu.exe
+C:\Users\bilis\Desktop\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış Otomasyonu.pdb
+C:\Users\muham\OneDrive\Masaüstü\zort\Sipariş Otomasyonu\Satış Otomasyonu\bin\Debug\Satış Otomasyonu.exe.config
+C:\Users\muham\OneDrive\Masaüstü\zort\Sipariş Otomasyonu\Satış Otomasyonu\bin\Debug\Satış Otomasyonu.exe
+C:\Users\muham\OneDrive\Masaüstü\zort\Sipariş Otomasyonu\Satış Otomasyonu\bin\Debug\Satış Otomasyonu.pdb
+C:\Users\muham\OneDrive\Masaüstü\zort\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Sipariş Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Masaüstü\zort\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.aAnasayfa.resources
+C:\Users\muham\OneDrive\Masaüstü\zort\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.adminLogin.resources
+C:\Users\muham\OneDrive\Masaüstü\zort\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.ANASAYFA.resources
+C:\Users\muham\OneDrive\Masaüstü\zort\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.FrmLogin.resources
+C:\Users\muham\OneDrive\Masaüstü\zort\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.frmKayit.resources
+C:\Users\muham\OneDrive\Masaüstü\zort\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.mAnasayfa.resources
+C:\Users\muham\OneDrive\Masaüstü\zort\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.odeme.resources
+C:\Users\muham\OneDrive\Masaüstü\zort\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.Properties.Resources.resources
+C:\Users\muham\OneDrive\Masaüstü\zort\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Sipariş Otomasyonu.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Masaüstü\zort\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Sipariş Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Masaüstü\zort\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış Otomasyonu.exe
+C:\Users\muham\OneDrive\Masaüstü\zort\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış Otomasyonu.pdb
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\zort\Sipariş Otomasyonu\Satış Otomasyonu\bin\Debug\Satış Otomasyonu.exe.config
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\zort\Sipariş Otomasyonu\Satış Otomasyonu\bin\Debug\Satış Otomasyonu.exe
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\zort\Sipariş Otomasyonu\Satış Otomasyonu\bin\Debug\Satış Otomasyonu.pdb
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\zort\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Sipariş Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\zort\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.aAnasayfa.resources
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\zort\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.adminLogin.resources
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\zort\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.ANASAYFA.resources
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\zort\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.FrmLogin.resources
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\zort\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.frmKayit.resources
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\zort\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.mAnasayfa.resources
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\zort\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.odeme.resources
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\zort\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.Properties.Resources.resources
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\zort\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Sipariş Otomasyonu.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\zort\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Sipariş Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\zort\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış Otomasyonu.exe
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\zort\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış Otomasyonu.pdb
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Tasarım\Sipariş Otomasyonu\Satış Otomasyonu\bin\Debug\Satış Otomasyonu.exe.config
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Tasarım\Sipariş Otomasyonu\Satış Otomasyonu\bin\Debug\Satış Otomasyonu.exe
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Tasarım\Sipariş Otomasyonu\Satış Otomasyonu\bin\Debug\Satış Otomasyonu.pdb
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Tasarım\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Sipariş Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Tasarım\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.aAnasayfa.resources
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Tasarım\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.adminLogin.resources
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Tasarım\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.ANASAYFA.resources
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Tasarım\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.FrmLogin.resources
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Tasarım\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.frmKayit.resources
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Tasarım\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.mAnasayfa.resources
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Tasarım\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.odeme.resources
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Tasarım\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.Properties.Resources.resources
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Tasarım\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Sipariş Otomasyonu.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Tasarım\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Sipariş Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Tasarım\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış Otomasyonu.exe
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Tasarım\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış Otomasyonu.pdb
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Sipariş Otomasyonu\Satış Otomasyonu\bin\Debug\Satış Otomasyonu.exe.config
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Sipariş Otomasyonu\Satış Otomasyonu\bin\Debug\Satış Otomasyonu.exe
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Sipariş Otomasyonu\Satış Otomasyonu\bin\Debug\Satış Otomasyonu.pdb
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Sipariş Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.aAnasayfa.resources
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.adminLogin.resources
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.ANASAYFA.resources
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.FrmLogin.resources
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.frmKayit.resources
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.mAnasayfa.resources
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.odeme.resources
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.Properties.Resources.resources
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Sipariş Otomasyonu.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Sipariş Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış Otomasyonu.exe
+C:\Users\muham\OneDrive\Masaüstü\2.Sınıf 1.Dönem Proje\Sipariş Otomasyonu\Satış Otomasyonu\obj\Debug\Satış Otomasyonu.pdb

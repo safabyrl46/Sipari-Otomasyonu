@@ -1,0 +1,11 @@
+C:\Users\muham\source\repos\Satış Otomasyonu\Satış Otomasyonu\bin\Debug\Satış Otomasyonu.exe.config
+C:\Users\muham\source\repos\Satış Otomasyonu\Satış Otomasyonu\bin\Debug\Satış Otomasyonu.exe
+C:\Users\muham\source\repos\Satış Otomasyonu\Satış Otomasyonu\bin\Debug\Satış Otomasyonu.pdb
+C:\Users\muham\source\repos\Satış Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.FrmLogin.resources
+C:\Users\muham\source\repos\Satış Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.frmKayit.resources
+C:\Users\muham\source\repos\Satış Otomasyonu\Satış Otomasyonu\obj\Debug\Satış_Otomasyonu.Properties.Resources.resources
+C:\Users\muham\source\repos\Satış Otomasyonu\Satış Otomasyonu\obj\Debug\Satış Otomasyonu.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\Satış Otomasyonu\Satış Otomasyonu\obj\Debug\Satış Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\Satış Otomasyonu\Satış Otomasyonu\obj\Debug\Satış Otomasyonu.exe
+C:\Users\muham\source\repos\Satış Otomasyonu\Satış Otomasyonu\obj\Debug\Satış Otomasyonu.pdb
+C:\Users\muham\source\repos\Satış Otomasyonu\Satış Otomasyonu\obj\Debug\Satış Otomasyonu.csproj.AssemblyReference.cache
